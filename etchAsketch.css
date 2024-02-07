@@ -1,0 +1,25 @@
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+td {
+    width: 10px;
+    height: 10px;
+    border: 1px solid black;
+}
+
+.grid-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    /* Adjust as needed */
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    gap: 10px;
+}
